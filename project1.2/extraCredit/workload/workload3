@@ -1,0 +1,12 @@
+./workload/iotest2 > /dev/null
+./workload/cputest2 > /dev/null
+./workload/iotest2 > /dev/null
+./workload/cputest2 > /dev/null
+./workload/iotest2 > /dev/null
+./workload/cputest2 > /dev/null
+./workload/iotest2 > /dev/null
+./workload/cputest2 > /dev/null
+./workload/iotest2 > /dev/null
+./workload/cputest2 > /dev/null
+./workload/iotest2 > /dev/null
+./workload/cputest2 > /dev/null

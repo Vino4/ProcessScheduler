@@ -1,0 +1,12 @@
+./iotest2 > /dev/null
+./cputest2 > /dev/null
+./iotest2 > /dev/null
+./cputest2 > /dev/null
+./iotest2 > /dev/null
+./cputest2 > /dev/null
+./iotest2 > /dev/null
+./cputest2 > /dev/null
+./iotest2 > /dev/null
+./cputest2 > /dev/null
+./iotest2 > /dev/null
+./cputest2 > /dev/null

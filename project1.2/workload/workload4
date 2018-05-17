@@ -1,0 +1,14 @@
+./workload/iotest2 -b 1024 -n 1000000000
+./workload/cputest2 -b 1000 -n 10000
+./workload/iotest2 -b 1024 -n 1000000000
+./workload/cputest2 -b 1000 -n 10000
+./workload/iotest2 -b 1024 -n 1000000000
+./workload/cputest2 -b 1000 -n 10000
+./workload/iotest2 -b 1024 -n 1000000000
+./workload/cputest2 -b 1000 -n 10000
+./workload/iotest2 -b 1024 -n 1000000000
+./workload/cputest2 -b 1000 -n 10000
+./workload/iotest2 -b 1024 -n 1000000000
+./workload/cputest2 -b 1000 -n 10000
+./workload/iotest2 -b 1024 -n 1000000000
+./workload/cputest2 -b 1000 -n 10000

@@ -1,0 +1,82 @@
+Info: Allocated memory for packet descriptor contents
+Info: Constructing network device...
+Info: Constructed network device.
+Info: Initialising network driver...
+Info: built 36 descriptors (of length 64) from 2304 bytes of memory
+Info: Initialised network driver.
+Info: Constructing fake applications...
+Info: Constructed fake applications.
+Info: receiver for application 1 is running.
+Info: sender for application 2 is running.
+Info: receiver for application 2 is running.
+Info: sender for application 3 is running.
+Info: receiver for application 3 is running.
+Info: sender for application 1 is running.
+Info: sender for application 4 is running.
+Info: receiver for application 4 is running.
+Info: sender for application 5 is running.
+Info: receiver for application 5 is running.
+Info: sender for application 6 is running.
+Info: receiver for application 0 is running.
+Info: receiver for application 6 is running.
+Info: sender for application 7 is running.
+Info: receiver for application 7 is running.
+Info: sender for application 8 is running.
+Info: receiver for application 8 is running.
+Info: sender for application 9 is running.
+Info: receiver for application 9 is running.
+Info: sender for application 10 is running.
+Info: sender for application 0 is running.
+Info: receiver for application 10 is running.
+[Device> Info: network device ready, pausing prior to input...
+Info: application 1 has acquired a packet descriptor.
+Info: application 1 is sending a packet descriptor.
+Info: application 1 has sent a packet descriptor (blocking).
+Info: application 8 has acquired a packet descriptor.
+Info: application 8 is sending a packet descriptor.
+Info: application 8 has sent a packet descriptor (blocking).
+Info: application 9 has acquired a packet descriptor.
+Info: application 9 is sending a packet descriptor.
+Info: application 9 has sent a packet descriptor (nonblocking).
+[Driver]: Sending packet with pid: 1
+[Device> packet successfully sent.
+[Driver]: Sent packet with pid 1 after 1 attempts.
+[Driver]: returned packet descriptor descriptor to FPDS.
+[Driver]: Sending packet with pid: 8
+Info: application 2 has acquired a packet descriptor.
+Info: application 2 is sending a packet descriptor.
+Info: application 2 has sent a packet descriptor (nonblocking).
+Info: application 3 has acquired a packet descriptor.
+Info: application 3 is sending a packet descriptor.
+Info: application 3 has sent a packet descriptor (blocking).
+Info: application 4 has acquired a packet descriptor.
+Info: application 4 is sending a packet descriptor.
+Info: application 4 has sent a packet descriptor (blocking).
+Info: application 6 has acquired a packet descriptor.
+Info: application 6 is sending a packet descriptor.
+Info: application 6 has sent a packet descriptor (nonblocking).
+Info: application 7 has acquired a packet descriptor.
+Info: application 7 is sending a packet descriptor.
+Info: application 7 has sent a packet descriptor (nonblocking).
+Info: application 10 has acquired a packet descriptor.
+Info: application 10 is sending a packet descriptor.
+Info: application 10 has sent a packet descriptor (blocking).
+Info: application 9 has acquired a packet descriptor.
+Info: application 9 is sending a packet descriptor.
+Info: application 9 has sent a packet descriptor (blocking).
+[Device> packet successfully sent.
+[Driver]: Sent packet with pid 8 after 1 attempts.
+[Driver]: returned packet descriptor descriptor to FPDS.
+[Driver]: Sending packet with pid: 9
+Info: application 5 has acquired a packet descriptor.
+Info: application 5 is sending a packet descriptor.
+Info: application 5 has sent a packet descriptor (nonblocking).
+Info: application 0 has acquired a packet descriptor.
+Info: application 0 is sending a packet descriptor.
+Info: application 0 has sent a packet descriptor (blocking).
+Info: application 4 has acquired a packet descriptor.
+Info: application 4 is sending a packet descriptor.
+Info: application 4 has sent a packet descriptor (nonblocking).
+Info: application 9 has acquired a packet descriptor.
+Info: application 9 is sending a packet descriptor.
+Info: application 9 failed 

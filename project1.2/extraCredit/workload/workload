@@ -1,0 +1,4 @@
+./workload/printer1 5
+./workload/printer2 5
+./workload/printer3 5
+./workload//printer4 5
